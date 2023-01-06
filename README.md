@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raphael-Merz
 - 👀 I’m interested in all things meta-science and statistics.
-- 🌱 I’m currently enrolled as a student of Psychology in Germany (Bachelor's Degree)
+- 🌱 I’m currently enrolled as a student of Psychology in Germany (7th semester)
 - 💞️ I’m looking forward to mastering R / RMarkdown etc. one day...
 - 📫 How to reach me: raphael.merz@rub.de
 
